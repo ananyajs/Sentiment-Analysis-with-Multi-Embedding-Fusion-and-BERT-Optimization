@@ -1,0 +1,10 @@
+review,actual_sentiment,predicted_sentiment,reason
+If you haven't gone here GO NOW!,1,0,Unclear
+I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.,0,1,Unclear
+"This place is like Chipotle, but BETTER.",1,0,Possible Negation or Contrast
+Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.,0,1,Unclear
+The service was outshining & I definitely recommend the Halibut.,1,0,Possible Negation or Contrast
+"Plus, it's only 8 bucks.",1,0,Unclear
+Maybe if they weren't cold they would have been somewhat edible.,0,1,Unclear
+I did not expect this to be so good!,1,0,Possible Negation or Contrast
+And it was way to expensive.,0,1,Unclear

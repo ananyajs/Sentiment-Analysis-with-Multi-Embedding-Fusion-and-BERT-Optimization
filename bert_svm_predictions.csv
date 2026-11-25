@@ -1,4 +1,4 @@
-review,actual,predicted
+review,actual_sentiment,predicted_sentiment
 If you haven't gone here GO NOW!,1,0
 "Try them in the airport to experience some tasty food and speedy, friendly service.",1,1
 The restaurant is very clean and has a family restaurant feel to it.,1,1
@@ -29,7 +29,7 @@ They dropped more than the ball.,0,0
 Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.,0,0
 The Buffet at Bellagio was far from what I anticipated.,0,0
 I was VERY disappointed!!,0,0
-"This place is like Chipotle, but BETTER.",1,1
+"This place is like Chipotle, but BETTER.",1,0
 My drink was never empty and he made some really great menu suggestions.,1,1
 Very disappointing!!!,0,0
 Waitress was sweet and funny.,1,1
@@ -59,7 +59,7 @@ I could care less... The interior is just beautiful.,1,1
 Service was very prompt.,1,1
 The service was a bit lacking.,0,0
 But I definitely would not eat here again.,0,0
-Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.,0,0
+Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.,0,1
 The portion was huge!,1,1
 The yellowtail carpaccio was melt in your mouth fresh.,1,1
 "The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous.",1,1
@@ -155,7 +155,7 @@ Overpriced for what you are getting.,0,0
 These are the nicest restaurant owners I've ever come across.,1,1
 Probably not in a hurry to go back.,0,0
 Im in AZ all the time and now have my new spot.,1,1
-I did not expect this to be so good!,1,1
+I did not expect this to be so good!,1,0
 I was mortified.,0,0
 At least think to refill my water before I struggle to wave you over for 10 minutes.,0,0
 "On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",0,0
@@ -182,7 +182,7 @@ The plantains were the worst I've ever tasted.,0,0
 Their daily specials are always a hit with my group.,1,1
 dont go here.,0,0
 "In an interesting part of town, this place is amazing.",1,1
-And it was way to expensive.,0,0
+And it was way to expensive.,0,1
 This place deserves no stars.,0,0
 This is one of the best bars with food in Vegas.,1,1
 "On the good side, the staff was genuinely pleasant and enthusiastic - a real treat.",1,1

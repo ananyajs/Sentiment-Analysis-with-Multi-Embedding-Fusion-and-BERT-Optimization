@@ -1,0 +1,10 @@
+﻿# Large pre-trained embeddings (download separately - see README)
+*.bin
+*.vec
+*.gz
+glove.*.txt
+models/fasttext_embeddings.pkl
+models/glove_embeddings.pkl
+.ipynb_checkpoints/
+__pycache__/
+.env
